@@ -1,9 +1,9 @@
 [
     {
       "id": 1,
-      "cover": "https://i.ibb.co/PxRsHRx/technology-communication-icons-symbols-concept.jpg",
-      "title": "Lorem Ipsum",
-      "author_img": "https://example.com/author1.jpg",
+      "cover": "https://i.im.ge/2024/03/13/RLUg1Y.1.jpeg",
+      "title": "Top 10 ES6 Features You Must Know",
+      "author_img": "https://i.im.ge/2024/03/13/RLiDQc.boy1.png",
       "author": "John Doe",
       "posted_date": "March 10 (4 day ago)",
       "reading_time": 10,
@@ -11,9 +11,9 @@
     },
     {
       "id": 2,
-      "cover": "https://i.ibb.co/PxRsHRx/technology-communication-icons-symbols-concept.jpg",
-      "title": "Dolor Sit Amet",
-      "author_img": "https://example.com/author2.jpg",
+      "cover": "https://i.im.ge/2024/03/13/RLUeic.2.png",
+      "title": "JavaScript Object for Absolute Beginners: A Fun Introduction",
+      "author_img": "https://i.im.ge/2024/03/13/RLiiqa.boy2.jpeg",
       "author": "Jane Smith",
       "posted_date": "March 9 (5 day ago)",
       "reading_time": 8,
@@ -21,9 +21,9 @@
     },
     {
       "id": 3,
-      "cover": "https://i.ibb.co/PxRsHRx/technology-communication-icons-symbols-concept.jpg",
-      "title": "Consectetur Adipiscing",
-      "author_img": "https://example.com/author3.jpg",
+      "cover": "https://i.im.ge/2024/03/13/RLhdcK.3.png",
+      "title": "Component lifecycle in React-Class Component vs Functional component",
+      "author_img": "https://i.im.ge/2024/03/13/RLiNTF.girl1.jpeg",
       "author": "Alan Johnson",
       "posted_date": "March 8 (6 day ago)",
       "reading_time": 12,
@@ -31,9 +31,9 @@
     },
     {
       "id": 4,
-      "cover": "https://i.ibb.co/PxRsHRx/technology-communication-icons-symbols-concept.jpg",
-      "title": "Sed Do Eiusmod",
-      "author_img": "https://example.com/author4.jpg",
+      "cover": "https://i.im.ge/2024/03/13/RLhjep.4.jpeg",
+      "title": "Free images and resources collection for website",
+      "author_img": "https://i.im.ge/2024/03/13/RLicR4.girl2.jpeg",
       "author": "Emily Davis",
       "posted_date": "March 7 (7 day ago)",
       "reading_time": 15,
@@ -41,3 +41,4 @@
     }
   ]
   
+
