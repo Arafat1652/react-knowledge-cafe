@@ -17,7 +17,7 @@
       "author": "Jane Smith",
       "posted_date": "March 9 (5 day ago)",
       "reading_time": 8,
-      "hashtags": ["beginners", "progrmming"]
+      "hashtags": ["javascript","coding", "dev"]
     },
     {
       "id": 3,
@@ -27,7 +27,7 @@
       "author": "Alan Johnson",
       "posted_date": "March 8 (6 day ago)",
       "reading_time": 12,
-      "hashtags": ["beginners", "progrmming"]
+      "hashtags": ["mid lever", "react"]
     },
     {
       "id": 4,
@@ -37,7 +37,7 @@
       "author": "Emily Davis",
       "posted_date": "March 7 (7 day ago)",
       "reading_time": 15,
-      "hashtags": ["beginners", "progrmming"]
+      "hashtags": ["development", "recources"]
     }
   ]
   
